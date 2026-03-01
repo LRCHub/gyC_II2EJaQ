@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "This Kiss",
+  "base_artist": "Carly Rae Jepsen",
+  "createdAt": "2026-03-01T13:59:26.776577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "This Kiss",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/01_This_Kiss_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "This Kiss (Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/02_This_Kiss_(Album_Version)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This Kiss",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/03_This_Kiss_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "This Kiss",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/04_This_Kiss_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "This Kiss - Brass Knuckles Remix",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/05_This_Kiss_-_Brass_Knuckles_Remix_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "This Kiss (Brass Knuckles Remix)",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/06_This_Kiss_(Brass_Knuckles_Remix)_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "This Kiss - Digital Dog Remix Radio Edit",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/07_This_Kiss_-_Digital_Dog_Remix_Radio_Edit_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "This Kiss (Digital Dog Radio Remix)",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/08_This_Kiss_(Digital_Dog_Radio_Remix)_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "This Kiss - Digital Dog Remix",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": false,
+      "path": "select/09_This_Kiss_-_Digital_Dog_Remix_Carly_Rae_Jepsen.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This Kiss - Mathieu Bouthier Remix",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": false,
+      "path": "select/10_This_Kiss_-_Mathieu_Bouthier_Remix_Carly_Rae_Jepsen.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "This Kiss (Mathieu Bouthier Remix)",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": false,
+      "path": "select/11_This_Kiss_(Mathieu_Bouthier_Remix)_Carly_Rae_Jepsen.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Questione di sguardi (This Kiss)",
+      "artist": "Paola Turci",
+      "has_synced": true,
+      "path": "select/12_Questione_di_sguardi_(This_Kiss)_Paola_Turci.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Could I Have This Kiss Forever",
+      "artist": "Whitney Houston feat. Enrique Iglesias",
+      "has_synced": true,
+      "path": "select/13_Could_I_Have_This_Kiss_Forever_Whitney_Houston_feat._Enrique_Iglesias.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Could I Have This Kiss Forever",
+      "artist": "Whitney Houston and Enrique Iglesias",
+      "has_synced": true,
+      "path": "select/14_Could_I_Have_This_Kiss_Forever_Whitney_Houston_and_Enrique_Iglesias.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Could I Have This Kiss Forever",
+      "artist": "Enrique Iglesias feat. Whitney Houston",
+      "has_synced": true,
+      "path": "select/15_Could_I_Have_This_Kiss_Forever_Enrique_Iglesias_feat._Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Could I Have This Kiss Forever",
+      "artist": "Enrique Iglesias, Whitney Houston",
+      "has_synced": true,
+      "path": "select/16_Could_I_Have_This_Kiss_Forever_Enrique_Iglesias,_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Could I Have This Kiss Forever (Duet With Enrique Iglesias) (Metro Mix)",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/17_Could_I_Have_This_Kiss_Forever_(Duet_With_Enrique_Iglesias)_(Metro_Mix)_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Circles Around This Town",
+      "artist": "Maren Morris",
+      "has_synced": true,
+      "path": "select/18_Circles_Around_This_Town_Maren_Morris.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Doin' This",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/19_Doin'_This_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "It Goes Like This",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/20_It_Goes_Like_This_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Kiss This",
+      "artist": "Aaron Tippin",
+      "has_synced": true,
+      "path": "select/21_Kiss_This_Aaron_Tippin.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Only Love Can Hurt Like This",
+      "artist": "Paloma Faith",
+      "has_synced": true,
+      "path": "select/22_Only_Love_Can_Hurt_Like_This_Paloma_Faith.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Something Just Like This (Mixed)",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/23_Something_Just_Like_This_(Mixed)_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "This Bar",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/24_This_Bar_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "This Is How We Roll",
+      "artist": "Florida Georgia Line feat. Luke Bryan",
+      "has_synced": true,
+      "path": "select/25_This_Is_How_We_Roll_Florida_Georgia_Line_feat._Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "This Is How We Roll",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/26_This_Is_How_We_Roll_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "This Thing",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/27_This_Thing_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "This Thing",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/28_This_Thing_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Work This Time",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/29_Work_This_Time_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Work This Time",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/30_Work_This_Time_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "(This Ain't) No Thinkin' Thing",
+      "artist": "Trace Adkins",
+      "has_synced": true,
+      "path": "select/31_(This_Ain't)_No_Thinkin'_Thing_Trace_Adkins.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "(This Ain't) No Thinkin' Thing",
+      "artist": "Trace Adkins",
+      "has_synced": false,
+      "path": "select/32_(This_Ain't)_No_Thinkin'_Thing_Trace_Adkins.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "This Kiss",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": false,
+      "path": "select/pl_01_This_Kiss_Carly_Rae_Jepsen.txt"
+    }
+  ]
+}
