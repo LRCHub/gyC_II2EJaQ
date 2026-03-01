@@ -1,0 +1,66 @@
+# Carly Rae Jepsen – This Kiss
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:13.77] I went out last night
+[00:17.64] I'm going out tonight again
+[00:21.38] Anything to capture your attention (your attention)
+[00:46.88] 
+[00:29.01] And she's a real sweet girl
+[00:32.65] And you know I got a boy
+[00:37.02] Details we both forgot to mention (forgot to mention)
+[01:03.52] 
+[00:43.81] And you, I always know where you are
+[00:49.86] And you always know where I am
+[00:53.56] We're taking it way too far
+[00:57.15] But I don't want it to end
+[01:10.15] 
+[00:59.71] This kiss is something I can't resist
+[01:03.67] Your lips are undeniable
+[01:07.32] This kiss is something I can't risk
+[01:11.19] Your heart is unreliable
+[01:14.73] Something so sentimental
+[01:18.52] You make so detrimental
+[01:22.27] And I wish it didn't feel like this
+[01:27.19] 'Cause I don't wanna miss this kiss
+[01:31.10] I don't wanna miss this kiss
+[01:45.10] 
+[01:36.31] You know you're just my type
+[01:40.12] And your eyes are lock and key to my heart
+[01:46.32] Tempting my confession (my confession)
+[02:05.32] 
+[01:51.40] And you're a real hot thing
+[01:55.19] But you know, I've got a boy somewhere
+[02:01.16] So can you feel the tension? (feel the tension)
+[02:24.66] 
+[02:06.46] And you, I'm dancing to where you are
+[02:12.15] And you're dancing to where I am
+[02:16.01] We're taking it way too far
+[02:19.47] But I don't want it to end
+[02:32.47] 
+[02:22.31] This kiss is something I can't resist
+[02:26.12] Your lips are undeniable
+[02:29.84] This kiss is something I can't risk
+[02:33.74] Your heart is unreliable
+[02:37.51] Something so sentimental
+[02:41.15] You make so detrimental
+[02:44.88] And I wish it didn't feel like this
+[02:49.73] 'Cause I don't wanna miss this kiss
+[03:07.23] 
+[02:52.46] But if you ask me to I couldn't, I couldn't, I
+[02:56.15] You're leaning closer and I shouldn't, I shouldn't, I
+[02:59.79] But if you ask me to I couldn't, I couldn't, I
+[03:03.42] I shouldn't, I shouldn't, I shouldn't don't wanna miss this kiss
+[03:35.42] 
+[03:07.56] This kiss is something I can't resist
+[03:11.27] Your lips are undeniable
+[03:14.75] This kiss is something I can't risk
+[03:18.66] Your heart is unreliable
+[03:22.30] Something so sentimental
+[03:26.17] You make so detrimental
+[03:29.53] And I wish it didn't feel like this
+[03:34.10] 'Cause I don't wanna miss this kiss
+[03:37.67] I wish it didn't feel like this
+[03:42.25] I don't wanna miss this kiss
+```
